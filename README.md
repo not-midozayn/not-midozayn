@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Mo7ammad Aboseif
-# 👋 Hi, I'm Mohamed Aboseif (not-midozayn)
 
 ## 💡 About Me
 Graduate from Mansoura University's Faculty of Engineering specialized in Mechanical Engineering
@@ -35,7 +34,6 @@ Communication, Presentation, Problem-solving, Teamwork, Critical Thinking, Atten
 
 ## 🏆 Featured Project
 
-[![Airbnb_Clone](https://github.com/not-midozayn/Airbnb_Clone/raw/main/demo.png)](https://github.com/not-midozayn/Airbnb_Clone)  
 **[Airbnb_Clone](https://github.com/not-midozayn/Airbnb_Clone)**  
 A full-featured clone of Airbnb, showcasing my expertise in both frontend and backend development.
 
@@ -61,7 +59,7 @@ A full-featured clone of Airbnb, showcasing my expertise in both frontend and ba
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a fullstack Exommerce application applying real world scenarios 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
