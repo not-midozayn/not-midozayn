@@ -80,7 +80,6 @@
 ### 🏠 [Airbnb Clone](https://github.com/not-midozayn/Airbnb_Clone)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square">
 A full-featured clone of Airbnb showcasing frontend and backend expertise.  
-[![View Project](https://img.shields.io/badge/View%20Project-FF5A5F?style=flat-square&logo=github&logoColor=white)](https://github.com/not-midozayn/Airbnb_Clone)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="3%"> GitHub Stats
 <p align="center">
