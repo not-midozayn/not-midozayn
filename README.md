@@ -63,20 +63,6 @@
 - **MVC Architecture**
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=not-midozayn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-midozayn&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=not-midozayn&theme=tokyonight" />
-</div>
-
 ---
 
 ## 🏆 Featured Project
