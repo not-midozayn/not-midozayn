@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/giphy.webp?raw=true" width="35">, I'm Mo7ammad Aboseif
+# Hi there 👋 I'm Mo7ammad Aboseif
 
 <picture> <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width = 250px></picture>
 
@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=not-midozayn&color=blueviolet&style=flat-square&label=Profile+Views" />
 
-## <picture><img src = "https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/about_me.gif?raw=true" width = 50px></picture> About Me
+##  About Me
 
 - 🎓 **Graduate** from Mansoura University's Faculty of Engineering specialized in **Mechanical Engineering**
 - 💻 I'm a **software engineer** with a knack for problem solving and building (and contributing to) big, influential projects
