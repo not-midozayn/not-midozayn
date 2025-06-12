@@ -10,7 +10,7 @@
 
 - 🎓 **Graduate** from Mansoura University's Faculty of Engineering specialized in **Mechanical Engineering**
 - 💻 I'm a **software engineer** with a knack for problem solving and building (and contributing to) big, influential projects
-- 🧠 I'm a **lifelong learner** with a strong mentality and a relentless desire to understand things deeply, always searching for the root causes of a problem
+- 🧠 I'm a **passionate learner** with a strong mentality and a relentless desire to understand things deeply, always searching for the root causes of a problem
 - 🌱 Currently exploring new technologies and working on exciting projects
 - 📈 Strong problem-solving mindset, eager to explore innovative solutions and projects
 - 📫 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/mohamed-aboseif/)**
