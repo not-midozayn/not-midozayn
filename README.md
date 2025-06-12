@@ -55,12 +55,12 @@
 
 ### 📋 Development Practices
 - **Object-Oriented Programming (OOP)**
-- **SOLID Principles**
-- **Design Patterns**
-- **Clean Code**
-- **Data Structures & Algorithms**
-- **REST APIs**
-- **MVC Architecture**
+  **SOLID Principles**
+  **Design Patterns**
+  **Clean Code**
+  **Data Structures & Algorithms**
+  **REST APIs**
+  **MVC Architecture**
 
 </div>
 ---
