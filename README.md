@@ -83,19 +83,19 @@ A full-featured clone of Airbnb showcasing frontend and backend expertise.
 [![View Project](https://img.shields.io/badge/View%20Project-FF5A5F?style=flat-square&logo=github&logoColor=white)](https://github.com/not-midozayn/Airbnb_Clone)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="3%"> GitHub Stats
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=not-midozayn&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&custom_title=GitHub+Profile+Stats">
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=not-midozayn&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-midozayn&layout=donut&langs_count=10&theme=radical&custom_title=Top+Languages+Used">
 </p>
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=not-midozayn&theme=tokyonight">
 </p>
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=not-midozayn&theme=tokyonight&utcOffset=+2">
 </p>
 
