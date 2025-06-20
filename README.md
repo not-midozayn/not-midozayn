@@ -11,6 +11,7 @@
 - 🧠 **Passionate Learner** always digging into root causes with a strong problem-solving mindset
 - 🌱 Exploring new technologies and working on exciting projects
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mohamed-aboseif/)**
+- 🔭 I’m currently working on a fullstack Exommerce application applying real world scenarios 
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="8%"> Connect with Me
 <p>
@@ -113,7 +114,6 @@ A full-featured clone of Airbnb showcasing frontend and backend expertise.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a fullstack Exommerce application applying real world scenarios 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
