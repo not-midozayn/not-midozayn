@@ -99,10 +99,6 @@ A full-featured clone of Airbnb showcasing frontend and backend expertise.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=not-midozayn&theme=tokyonight&utcOffset=+2">
 </p>
 
----
-
-💭 **"Always searching for the root causes of a problem"**  
-⭐️ From <a href="https://github.com/not-midozayn">Mo7ammad Aboseif</a>
 
 <!-- Optionally, add GitHub stats or activity below! Uncomment to activate.
 ![not-midozayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=not-midozayn&show_icons=true&theme=radical)
