@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=not-midozayn&color=blueviolet&style=flat-square&label=Profile+Views">
 
 ## About Me
-- 🎓 **Graduate** from Mansoura University's Faculty of Engineering (Mechanical Engineering)
+- 🎓 **Graduate** from Mansoura University's Faculty of Engineering
 - 💻 **Software Engineer** with a knack for problem-solving and contributing to impactful projects
 - 🧠 **Passionate Learner** always digging into root causes with a strong problem-solving mindset
 - 🌱 Exploring new technologies and working on exciting projects
