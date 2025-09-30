@@ -4,15 +4,6 @@
 **Software Engineer | Backend Engineer | Problem Solver | Full Stack Developer**
 
 <img src="https://komarev.com/ghpvc/?username=not-midozayn&color=blueviolet&style=flat-square&label=Profile+Views">
-
-## About Me
-- 🎓 **Graduate** from Mansoura University's Faculty of Engineering
-- 💻 **Software Engineer** with a knack for problem-solving and contributing to impactful projects
-- 🧠 **Passionate Learner** always digging into root causes with a strong problem-solving mindset
-- 🌱 Exploring new technologies and working on exciting projects
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mohamed-aboseif/)**
-- 🔭 I’m currently working on a fullstack Exommerce application applying real world scenarios 
-
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="8%"> Connect with Me
 <p>
 	<a href="mailto:mohamedelelime@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
