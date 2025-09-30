@@ -66,8 +66,11 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
     <img src="https://img.shields.io/badge/CodeSandbox-000000?style=flat-square&logo=codesandbox&logoColor=white" alt="CodeSandbox">
 </p>
-### Languages
-- 🇬🇧 **English** (C1 - Advanced) | 🇪🇬 **Arabic** (Native)
+### 🌍 Languages
+<p>
+  <img src="https://img.shields.io/badge/English-C1%20Advanced-0077B5?style=for-the-badge&logo=google-translate&logoColor=white" alt="English">
+  <img src="https://img.shields.io/badge/Arabic-Native-008000?style=for-the-badge&logo=google-translate&logoColor=white" alt="Arabic">
+</p>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="3%"> GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=not-midozayn&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
