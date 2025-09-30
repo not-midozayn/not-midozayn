@@ -66,8 +66,10 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
     <img src="https://img.shields.io/badge/CodeSandbox-000000?style=flat-square&logo=codesandbox&logoColor=white" alt="CodeSandbox">
 </p>
-### Languages
-- 🇬🇧 **English** (C1 - Advanced) | 🇪🇬 **Arabic** (Native)
+
+### 🌍 Languages
+🇬🇧 **English** (C1 Advanced) • 🇪🇬 **Arabic** (Native)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=not-midozayn&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
 </p>
