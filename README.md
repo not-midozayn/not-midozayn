@@ -67,9 +67,8 @@
     <img src="https://img.shields.io/badge/CodeSandbox-000000?style=flat-square&logo=codesandbox&logoColor=white" alt="CodeSandbox">
 </p>
 ### 🌍 Languages
-<p>
-  <img src="https://img.shields.io/badge/English-C1%20Advanced-0077B5?style=for-the-badge&logo=google-translate&logoColor=white" alt="English">
-  <img src="https://img.shields.io/badge/Arabic-Native-008000?style=for-the-badge&logo=google-translate&logoColor=white" alt="Arabic">
+<p>English : C1
+	Arabic: Native
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=not-midozayn&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
