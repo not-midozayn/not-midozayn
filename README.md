@@ -16,41 +16,24 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3%"> My Skills
 
-### Programming Languages
 <p>
     <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
-</p>
-
-### Frontend Development
-<p>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery">
-</p>
-
-### Backend Development
-<p>
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET">
     <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET Core">
     <img src="https://img.shields.io/badge/MVC-5C2D91?style=flat-square&logo=.net&logoColor=white" alt="MVC">
     <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST API">
-</p>
-
-### Database & ORM
-<p>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
     <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=.net&logoColor=white" alt="Entity Framework">
     <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=.net&logoColor=white" alt="LINQ">
     <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt="ADO.NET">
-</p>
-
-### Tools & Version Control
-<p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white" alt="Visual Studio">
