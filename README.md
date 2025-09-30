@@ -68,7 +68,7 @@
 </p>
 
 ### Languages
-🇬🇧 **English** (C1 Advanced) • 🇪🇬 **Arabic** (Native)
+🇬🇧 **English** (B2 Advanced) • 🇪🇬 **Arabic** (Native)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=not-midozayn&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
