@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/CodeSandbox-000000?style=flat-square&logo=codesandbox&logoColor=white" alt="CodeSandbox">
 </p>
 
-### 🌍 Languages
+### Languages
 🇬🇧 **English** (C1 Advanced) • 🇪🇬 **Arabic** (Native)
 
 <p align="center">
